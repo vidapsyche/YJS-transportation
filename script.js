@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function() {
   const nextButton = document.querySelector("#next-button");
   const prevButton = document.querySelector("#prev-button");
   const imageCount = images.length;
-  const imagesPerPage = 5;
+  const imagesPerPage = 2;
   let currentPage = 1;
 
   function showImages(page) {
