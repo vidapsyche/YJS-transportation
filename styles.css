@@ -79,6 +79,18 @@ body {
     border-radius: 10px;
     color: #333;
   }
+
+  .service h2{
+    font-size: 28px;
+  }
+  
+  .service h3{
+    font-size: 20px;
+  }
+
+  .service p{
+    font-size: 16px;
+  }
   
 
   /* Image Gallery Styles */
