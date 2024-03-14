@@ -80,18 +80,6 @@ body {
     color: #333;
   }
 
-  .service h2{
-    font-size: 2.5vw;
-  }
-  
-  .service h3{
-    font-size: 2.0vw;
-  }
-
-  .service p{
-    font-size: 18px;
-  }
-  
 
   /* Image Gallery Styles */
 #images {
